@@ -1,0 +1,31 @@
+ <div class="sc-bdfBQB butPHH">
+        <div class="sc-jSgvzq jZTiFu" style="padding: 24px; background-color: black;">
+            <a href="https://nyukia.com/"><img alt="logo" src="images/logo.png" class="sc-crrszt gCAlzH"></a>
+
+            <div class="sc-iqHYmW cexcYk" style="padding: 24px; display: flex; ">
+                <div class="sc-jSgvzq fyowvo"><img alt=" " src="images/example.gif" class="sc-dQoVA ccTyGY"></div>
+                <div class="sc-eCstlR kzmsrp"></div>
+                <div class="sc-jSgvzq hgrPFv" style="background-color: var(--accent); padding: 24px; border-radius: 24px; border: 0px dashed rgb(236, 185, 68); box-shadow: rgb(236, 185, 68) 0px 5px 11px 2px;">
+                    <p class="sc-gKseQn hGysNl" style="text-align: center; font-size: 50px; font-weight: bold; color: white;">0 / 10000</p>
+                    <p class="sc-fubCzh bQWcIT" style="text-align: center; color: white;"><a target="_blank" href="https://polygonscan.com/token/0x5fA245a0c4070F44F49fD9D2Af3ef98A00A6b435" class="sc-bqyKOL lebezO">0x5fA245a0c4070...</a></p><span style="text-align: center;"><button class="sc-jrAFXE uCpks" style="margin: 5px;">Roadmap</button><button class="sc-jrAFXE uCpks" style="margin: 5px;">Main Site</button></span>
+                    <div class="sc-dlfnuX iZDEj"></div>
+                    <p class="sc-gKseQn hGysNl" style="text-align: center; color: white;">1 HPB costs 4 Matic.</p>
+                    <div class="sc-gsTEea fqEraT"></div>
+                    <p class="sc-fubCzh bQWcIT" style="text-align: center; color: white;">Excluding gas fees.</p>
+                    <div class="sc-dlfnuX iZDEj"></div>
+                    <div class="sc-jSgvzq iDxcFh">
+                        <p class="sc-fubCzh bQWcIT" style="text-align: center; color: white;">Connect to the Polygon network</p>
+                        <div class="sc-dlfnuX iZDEj"></div><button class="sc-jrAFXE uCpks">CONNECT</button></div>
+                    <div class="sc-hKgJUU bJduWs"></div>
+                </div>
+                <div class="sc-eCstlR kzmsrp"></div>
+                <div class="sc-jSgvzq fyowvo"><img alt="example" src="images/example.gif" class="sc-dQoVA ccTyGY" style="transform: scaleX(-1);"></div>
+            </div>
+            <div class="sc-hKgJUU bJduWs"></div>
+            <div class="sc-jSgvzq iDxcFh" style="width: 70%;">
+                <p class="sc-fubCzh bQWcIT" style="text-align: center; color: white;">Please make sure you are connected to the right network (Polygon Mainnet) and the correct address. Please note: Once you make the purchase, you cannot undo this action.</p>
+                <div class="sc-dlfnuX iZDEj"></div>
+                <p class="sc-fubCzh bQWcIT" style="text-align: center; color: white;">We have set the gas limit to 285000 for the contract to successfully mint your NFT. We recommend that you don't lower the gas limit.</p>
+            </div>
+        </div>
+    </div>

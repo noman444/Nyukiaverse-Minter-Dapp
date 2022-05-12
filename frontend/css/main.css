@@ -85,6 +85,18 @@ p {
     }
 }
 
+@media only screen and (max-device-width: 480px) {
+    .cexcYk {
+        display: flex;
+        flex: 1 1 0%;
+        flex-direction: column;
+        width: 100%;
+        margin-left: auto
+    
+    }
+
+}
+
 .fyowvo {
     display: flex;
     flex: 1 1 0%;
@@ -227,6 +239,7 @@ p {
     color: black;
     width: 100px;
     cursor: pointer;
+
     box-shadow: rgba(210, 238, 54, 0.3) 0px 6px 0px -2px;
 }
 
